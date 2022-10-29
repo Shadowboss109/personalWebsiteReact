@@ -10,27 +10,27 @@ export default function AppHeader() {
 
 
           <li className="nav-item active">
-            <a className="nav-link " href="#">
+            <a className="nav-link " href="/">
                 <h6>
               Home</h6>
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#">
+            <a className="nav-link" href="/about">
             <h6>
               About</h6>
             </a>
           </li>
 
           <li className="nav-item">
-            <a className="nav-link" href="#">
+            <a className="nav-link" href="/portfolio">
                 <h6>
               Portfolio
               </h6>
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#">
+            <a className="nav-link" href="/contact">
                 <h6>
               Contact</h6>
             </a>

@@ -4,7 +4,7 @@ export default function Home() {
 
         <><div>
             <div className='theo-image'>
-            <img className='theo' src={theoPic} alt="Picture of Theodore"></img>
+            <img className='theo' src={theoPic} alt=""></img>
             </div>
 
             <div>
@@ -21,7 +21,7 @@ export default function Home() {
 
                 <br></br>
                 <br></br>
-                <p>Please go to my <a href="#"> About</a>  page to get more information on me.</p>
+                <p>Please go to my <a href="#/about"> About</a>  page to get more information on me.</p>
             </div>
             </>
 

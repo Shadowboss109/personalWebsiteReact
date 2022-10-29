@@ -10,12 +10,17 @@
     margin: 16px;
 
 }
+
+
 .theo-image{
     
         display: flex;
         justify-content: center;
       
 }
+
+
+
 .name{
     margin: 18px;
 }
