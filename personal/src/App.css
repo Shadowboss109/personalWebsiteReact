@@ -32,3 +32,41 @@
     margin: 36px;
 }
 
+.about-hr{
+    background-color: white;
+}
+
+.btn-resume{
+    margin: 24px;
+}
+
+.download{
+    margin-right: 7px;
+}
+
+.resume{
+    
+    display: flex;
+    justify-content: center;
+  
+}
+
+
+.fb{
+    color: #3b5998;
+   
+}
+  
+.insta{
+color: #ac2bac;
+
+}
+
+.social{
+    margin: 5px;
+
+}
+
+.contact-detail{
+    margin: 30px;
+}
