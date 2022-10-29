@@ -1,0 +1,24 @@
+.theo{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin: 16px;
+
+}
+.theo-image{
+    
+        display: flex;
+        justify-content: center;
+      
+}
+.name{
+    margin: 18px;
+}
+.quote{
+   
+        font-family: "Utopia-italic";
+        font-size: 24px;
+        font-weight: 700px;
+        text-align: center;
+    
+}
