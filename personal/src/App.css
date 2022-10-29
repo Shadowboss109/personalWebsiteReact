@@ -1,3 +1,8 @@
+.content {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+}
+
 .theo{
     height: 200px;
     width: 200px;
@@ -17,8 +22,13 @@
 .quote{
    
         font-family: "Utopia-italic";
-        font-size: 24px;
+        font-size: px;
         font-weight: 700px;
         text-align: center;
     
 }
+
+.container-fluid{
+    margin: 36px;
+}
+

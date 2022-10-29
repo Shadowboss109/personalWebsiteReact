@@ -1,6 +1,6 @@
 export default function AppHeader() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
+    <nav className="navbar navbar-expand-lg navbar-dark bg-dark text-white">
       <h5 className="navbar-brand" href="#">
         Theodore Bennett
       </h5>
