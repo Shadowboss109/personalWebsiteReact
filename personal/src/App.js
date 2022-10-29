@@ -1,12 +1,18 @@
 import AppHeader from "./components/AppHeader";
+import AppFooter from "./components/AppFooter";
 
 function App() {
   return (
     /*html*/
 
-    <AppHeader />
-
-    
+    <>
+      
+      <AppHeader />
+      
+      <hr></hr>
+      <br></br>
+      <AppFooter />
+      </>
   );
 }
 
