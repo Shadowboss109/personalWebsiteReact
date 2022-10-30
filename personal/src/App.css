@@ -75,3 +75,17 @@ color: #ac2bac;
 .contact-detail{
     margin: 30px;
 }
+
+.photos{
+    display: flex;
+    list-style-type: none;
+
+}
+.photo{
+    margin: 25px;
+    height:200px;
+     width:330px;
+}
+.portheader{
+    margin:25px;
+}

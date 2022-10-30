@@ -1,8 +1,11 @@
+import p1 from "../images/p1.PNG";
+import p2 from "../images/p2.PNG";
+import p3 from "../images/p3.PNG";
 const Projects = [
     {
         projectName:"Personal Website",
-        description: "A website created to tell viewer about who is Theodore Bennett",
-        photos:["../images/p1.PNG","../images/p2.PNG","../images/p3.PNG"]
+        description: "A website created to tell viewer about who is Theodore Bennett.",
+        photos:[p1,p2,p3]
     }
 
 ]
@@ -25,10 +28,10 @@ export default function Portfolio() {
 
                             </div>
 
-                            <ul>
+                            <ul className='photos'>
                                 {project.photos.map((photo,i)=>
                                 <li key={i}>
-                                    <img src={photo} alt=''></img>
+                                    <img className='photo'  src={photo} alt=''/>
 
                                 </li>
                                 
