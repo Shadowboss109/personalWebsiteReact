@@ -15,7 +15,7 @@ export default function Home() {
 
 
         <div className="text-center">
-                <h4>Software Deveoper/Engineer</h4>
+                <h4>Software Developer/Engineer</h4>
                 <blockquote className='quote'> "The task isn't easy. It isn't hard. Just get the job done!" </blockquote>
                 </div>
 
